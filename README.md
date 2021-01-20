@@ -3,6 +3,8 @@
 # Introduction 
 In a three member team we modified an existing Data Detection System. When working in the software industry, often two or more companies will work on the same project, and while working on the project, data is shared among those affiliate companies. A good example is when a medical firm provides its patients records to various researchers in a University who will develop new treatment methodologies for the medical firm. Frequently while data is being shared, some of that data gets leaked. Our goal for this project is to detect when the supplier’s data gets leaked and identify the people responsible for leaking the data. The motivation for this project came from Naughty Dog's The Last of Us Part II leaks that happened in April 2020.
 
+In the future (Spring 2022) we are hoping to host this project onto a webserver. 
+
 
 # Results
 # Login Page
@@ -17,14 +19,17 @@ In a three member team we modified an existing Data Detection System. When worki
 ![5](https://user-images.githubusercontent.com/62857780/105228581-b5b49280-5b30-11eb-8711-b36f2eacbf7d.JPG)
 # Probability Calculations
 ![6](https://user-images.githubusercontent.com/62857780/105228582-b5b49280-5b30-11eb-8ece-1aa2516bdda4.JPG)
-
+# Admins Portal
 ![7](https://user-images.githubusercontent.com/62857780/105228583-b5b49280-5b30-11eb-9e30-14234e792d03.JPG)
+# Distributor's Portal
 ![8](https://user-images.githubusercontent.com/62857780/105228584-b5b49280-5b30-11eb-8837-ba114f23b2ac.JPG)
+# Agent's Portal
 ![9](https://user-images.githubusercontent.com/62857780/105228586-b5b49280-5b30-11eb-8595-b37b63ba6e75.JPG)
+# Change Password Form
 ![10](https://user-images.githubusercontent.com/62857780/105228587-b64d2900-5b30-11eb-8fb9-0a2f4e018a73.JPG)
 
 
 # Reference
 The main references used to build this system are provided below:
-
+“Data Leakage Detection”Panagiotis Papadimitriou, Student Member, IEEE, and Hector Garcia-Molina, Member, IEEE
 https://github.com/ronakm/Data-Leakage-Detection
