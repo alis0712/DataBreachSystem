@@ -7,9 +7,11 @@ When working in the software industry, often two or more companies will work on 
 
 
 # Results
-
+# Login Page
 ![1](https://user-images.githubusercontent.com/62857780/105228535-a6354980-5b30-11eb-827a-d612a892869c.JPG)
+# User Registration Form
 ![2](https://user-images.githubusercontent.com/62857780/105228578-b51bfc00-5b30-11eb-8a05-77cabd182739.JPG)
+
 ![3](https://user-images.githubusercontent.com/62857780/105228579-b51bfc00-5b30-11eb-959c-14e156466b6e.JPG)
 ![4](https://user-images.githubusercontent.com/62857780/105228580-b51bfc00-5b30-11eb-84b4-2a701fe89357.JPG)
 ![5](https://user-images.githubusercontent.com/62857780/105228581-b5b49280-5b30-11eb-8711-b36f2eacbf7d.JPG)
