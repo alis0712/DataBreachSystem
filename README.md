@@ -8,7 +8,16 @@ When working in the software industry, often two or more companies will work on 
 
 # Results
 
-
+![1](https://user-images.githubusercontent.com/62857780/105228535-a6354980-5b30-11eb-827a-d612a892869c.JPG)
+![2](https://user-images.githubusercontent.com/62857780/105228578-b51bfc00-5b30-11eb-8a05-77cabd182739.JPG)
+![3](https://user-images.githubusercontent.com/62857780/105228579-b51bfc00-5b30-11eb-959c-14e156466b6e.JPG)
+![4](https://user-images.githubusercontent.com/62857780/105228580-b51bfc00-5b30-11eb-84b4-2a701fe89357.JPG)
+![5](https://user-images.githubusercontent.com/62857780/105228581-b5b49280-5b30-11eb-8711-b36f2eacbf7d.JPG)
+![6](https://user-images.githubusercontent.com/62857780/105228582-b5b49280-5b30-11eb-8ece-1aa2516bdda4.JPG)
+![7](https://user-images.githubusercontent.com/62857780/105228583-b5b49280-5b30-11eb-9e30-14234e792d03.JPG)
+![8](https://user-images.githubusercontent.com/62857780/105228584-b5b49280-5b30-11eb-8837-ba114f23b2ac.JPG)
+![9](https://user-images.githubusercontent.com/62857780/105228586-b5b49280-5b30-11eb-8595-b37b63ba6e75.JPG)
+![10](https://user-images.githubusercontent.com/62857780/105228587-b64d2900-5b30-11eb-8fb9-0a2f4e018a73.JPG)
 
 
 # Reference
