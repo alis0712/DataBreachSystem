@@ -29,7 +29,8 @@ In the future (Spring 2022) we are hoping to host this project onto a webserver.
 ![10](https://user-images.githubusercontent.com/62857780/105228587-b64d2900-5b30-11eb-8fb9-0a2f4e018a73.JPG)
 
 
-# Reference
+# References
 The main references used to build this system are provided below:
-“Data Leakage Detection”Panagiotis Papadimitriou, Student Member, IEEE, and Hector Garcia-Molina, Member, IEEE
-https://github.com/ronakm/Data-Leakage-Detection
+
+- “Data Leakage Detection”Panagiotis Papadimitriou, Student Member, IEEE, and Hector Garcia-Molina, Member, IEEE
+- https://github.com/ronakm/Data-Leakage-Detection
