@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/clif-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-dbutils-1.7-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/clif-swingGui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-dbutils-1.7-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/swinghelper-debug-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/org-openide-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JFolderChooser-0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/icons-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-dbutils-1.7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/WatermarkingApp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang-2.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Java-Helper-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/OpenCSV.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/validationapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang-2.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/validation.zip!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-dbutils-1.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/icons-swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/sigar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ojdbc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/nelkinda-japi-swing-0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/SwingHelper-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/logback-core-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/swing-layout-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gate-3.0-beta1-build1717-BIN.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
